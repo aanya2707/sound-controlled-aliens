@@ -1,0 +1,38 @@
+body{
+    font-family: 'Indie Flower', cursive;
+    background-color: lightpink;
+}
+
+.header_div {
+    color: red;
+    background-color: aliceblue;
+}
+
+.header_div p{
+    font-family: monospace;
+    color: gray;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.main-div button{
+    margin-top: 30px;
+    font-size: 20px;
+    width: 120px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.footer{
+    background-color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    color: gray;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    line-height: 3;
+    box-shadow: 5px 5px 5px gray;
+    font-family:'Courier New', Courier, monospace;
+}
